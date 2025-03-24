@@ -1,0 +1,9 @@
+beautifulsoup4~=4.13.3
+aiohttp~=3.11.14
+urllib3~=2.3.0
+openai~=0.28.0
+selenium~=4.30.0
+aiofiles~=24.1.0
+tqdm~=4.67.1
+prompts~=0.0.1
+config~=0.5.1

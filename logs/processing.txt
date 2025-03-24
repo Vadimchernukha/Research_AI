@@ -1,0 +1,619 @@
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 12:18:07,984 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 12:18:09,431 - INFO - Ответ от GPT-4o-mini: + Relevant - Enterprise content management software solutions.
+2025-03-23 12:18:10,045 - INFO - Ответ от GPT-4o-mini: + Relevant - Comprehensive platform for employee engagement and onboarding.
+2025-03-23 12:18:10,054 - INFO - Сайт https://nextevolution.de обработан успешно.
+2025-03-23 12:18:10,057 - INFO - Сайт https://ngager.se обработан успешно.
+2025-03-23 12:18:10,057 - INFO - Обработано 1/19 сайтов (5.26%).
+2025-03-23 12:18:10,058 - INFO - Обработано 2/19 сайтов (10.53%).
+2025-03-23 12:18:10,897 - INFO - Ответ от GPT-4o-mini: + Relevant - AI-driven insights for simplified invoicing.
+2025-03-23 12:18:11,395 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 12:18:11,974 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient workflows.
+2025-03-23 12:18:12,549 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for supply chain optimization.
+2025-03-23 12:18:13,169 - INFO - Ответ от GPT-4o-mini: + Relevant - Pioneering software for lighting control systems.
+2025-03-23 12:18:13,170 - INFO - Сайт https://nextesy.com обработан успешно.
+2025-03-23 12:18:13,784 - INFO - Ответ от GPT-4o-mini: + Relevant - Centralized AI platform for customer interactions.
+2025-03-23 12:18:14,293 - INFO - Ответ от GPT-4o-mini: + Relevant - Software solutions for lab diagnostics and pathology.
+2025-03-23 12:18:14,832 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analysis solutions.
+2025-03-23 12:18:15,427 - INFO - Ответ от GPT-4o-mini: + Relevant - PIM software for product data management.
+2025-03-23 12:18:16,080 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for IT management.
+2025-03-23 12:18:16,637 - INFO - Ответ от GPT-4o-mini: + Relevant - ECM solutions for healthcare management.
+2025-03-23 12:18:16,639 - INFO - Сайт https://nexus-chili.com обработан успешно.
+2025-03-23 12:18:16,640 - INFO - Сайт https://nextway.software обработан успешно.
+2025-03-23 12:18:16,641 - INFO - Сайт https://newtron.de обработан успешно.
+2025-03-23 12:18:16,641 - INFO - Сайт https://nicolaudiegroup.com обработан успешно.
+2025-03-23 12:18:16,641 - INFO - Обработано 3/19 сайтов (15.79%).
+2025-03-23 12:18:16,642 - INFO - Сайт https://nexcomglobal.com обработан успешно.
+2025-03-23 12:18:16,642 - INFO - Сайт https://nexus-lab.de обработан успешно.
+2025-03-23 12:18:16,642 - INFO - Сайт https://nhochdrei.de обработан успешно.
+2025-03-23 12:18:16,642 - INFO - Сайт https://nexoma.de обработан успешно.
+2025-03-23 12:18:16,642 - INFO - Сайт https://nexis-secure.com обработан успешно.
+2025-03-23 12:18:16,643 - INFO - Сайт https://nexus-marabu.de обработан успешно.
+2025-03-23 12:18:16,643 - INFO - Обработано 4/19 сайтов (21.05%).
+2025-03-23 12:18:16,643 - INFO - Обработано 5/19 сайтов (26.32%).
+2025-03-23 12:18:16,643 - INFO - Обработано 6/19 сайтов (31.58%).
+2025-03-23 12:18:16,643 - INFO - Обработано 7/19 сайтов (36.84%).
+2025-03-23 12:18:16,643 - INFO - Обработано 8/19 сайтов (42.11%).
+2025-03-23 12:18:16,643 - INFO - Обработано 9/19 сайтов (47.37%).
+2025-03-23 12:18:16,643 - INFO - Обработано 10/19 сайтов (52.63%).
+2025-03-23 12:18:16,643 - INFO - Обработано 11/19 сайтов (57.89%).
+2025-03-23 12:18:16,643 - INFO - Обработано 12/19 сайтов (63.16%).
+2025-03-23 12:18:16,644 - INFO - Обработано 13/19 сайтов (68.42%).
+2025-03-23 12:18:17,359 - INFO - Ответ от GPT-4o-mini: + Relevant - Subscription billing platform for efficient financial management.
+2025-03-23 12:18:17,362 - INFO - Сайт https://nexnet.de обработан успешно.
+2025-03-23 12:18:17,362 - INFO - Обработано 14/19 сайтов (73.68%).
+2025-03-23 12:18:18,215 - INFO - Ответ от GPT-4o-mini: + Relevant - Digital whiteboard platform for real-time collaboration.
+2025-03-23 12:18:18,797 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary software for time management solutions.
+2025-03-23 12:18:18,798 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 1)
+2025-03-23 12:18:19,339 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for banks.
+2025-03-23 12:18:19,971 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary software for user lifecycle management.
+2025-03-23 12:18:19,971 - INFO - Сайт https://nexenio.com обработан успешно.
+2025-03-23 12:18:19,971 - INFO - Сайт https://niklas.ch обработан успешно.
+2025-03-23 12:18:19,972 - INFO - Сайт https://nfinnova.com обработан успешно.
+2025-03-23 12:18:19,972 - INFO - Сайт https://nexquent.de обработан успешно.
+2025-03-23 12:18:19,972 - INFO - Обработано 15/19 сайтов (78.95%).
+2025-03-23 12:18:19,972 - INFO - Обработано 16/19 сайтов (84.21%).
+2025-03-23 12:18:19,972 - INFO - Обработано 17/19 сайтов (89.47%).
+2025-03-23 12:18:19,972 - INFO - Обработано 18/19 сайтов (94.74%).
+2025-03-23 12:18:26,433 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 2)
+2025-03-23 12:18:31,531 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:18:35,104 - ERROR - Не удалось получить HTML для https://newelo.com.
+2025-03-23 12:18:35,104 - INFO - Обработано 19/19 сайтов (100.00%).
+2025-03-23 12:18:35,104 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 12:18:35,105 - INFO - Обработка завершена: 2025-03-23 12:18:35
+2025-03-23 12:18:35,105 - INFO - 100% ✔️ Все сайты успешно обработаны!
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 12:24:19,232 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 12:24:19,950 - ERROR - Ошибка получения https://nextesy.com (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nextesy.com'
+2025-03-23 12:24:20,853 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 12:24:20,855 - ERROR - Ошибка получения https://nexnet.de (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexnet.de/'
+2025-03-23 12:24:20,858 - INFO - Сайт https://nexus-chili.com обработан успешно.
+2025-03-23 12:24:20,858 - INFO - Обработано 1/19 сайтов (5.26%).
+2025-03-23 12:24:21,844 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for supply chain optimization.
+2025-03-23 12:24:22,686 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient processes.
+2025-03-23 12:24:23,342 - INFO - Ответ от GPT-4o-mini: + Relevant - Time management software for businesses.
+2025-03-23 12:24:23,911 - INFO - Ответ от GPT-4o-mini: + Relevant - Cutting-edge lighting control software solutions.
+2025-03-23 12:24:23,912 - ERROR - Ошибка получения https://ngager.se (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://ngager.se/en'
+2025-03-23 12:24:23,912 - ERROR - Ошибка получения https://nexus-lab.de (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-ag.de/lab'
+2025-03-23 12:24:23,915 - INFO - Сайт https://newtron.de обработан успешно.
+2025-03-23 12:24:23,915 - ERROR - Ошибка получения https://nexcomglobal.com (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexcomglobal.com'
+2025-03-23 12:24:24,666 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analysis.
+2025-03-23 12:24:24,666 - ERROR - Ошибка получения https://nexoma.de (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexoma.de'
+2025-03-23 12:24:24,670 - INFO - Сайт https://nextway.software обработан успешно.
+2025-03-23 12:24:24,670 - INFO - Сайт https://niklas.ch обработан успешно.
+2025-03-23 12:24:24,670 - INFO - Сайт https://nicolaudiegroup.com обработан успешно.
+2025-03-23 12:24:24,670 - INFO - Обработано 2/19 сайтов (10.53%).
+2025-03-23 12:24:24,671 - INFO - Сайт https://nhochdrei.de обработан успешно.
+2025-03-23 12:24:24,671 - INFO - Обработано 3/19 сайтов (15.79%).
+2025-03-23 12:24:24,671 - INFO - Обработано 4/19 сайтов (21.05%).
+2025-03-23 12:24:24,671 - INFO - Обработано 5/19 сайтов (26.32%).
+2025-03-23 12:24:24,671 - INFO - Обработано 6/19 сайтов (31.58%).
+2025-03-23 12:24:25,342 - INFO - Ответ от GPT-4o-mini: + Relevant - Enterprise content management software solutions.
+2025-03-23 12:24:25,343 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 1)
+2025-03-23 12:24:25,343 - ERROR - Ошибка получения https://nexus-marabu.de (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-marabu.de/'
+2025-03-23 12:24:25,913 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for identity management.
+2025-03-23 12:24:25,913 - INFO - Сайт https://nextevolution.de обработан успешно.
+2025-03-23 12:24:25,915 - INFO - Сайт https://nexis-secure.com обработан успешно.
+2025-03-23 12:24:25,915 - INFO - Обработано 7/19 сайтов (36.84%).
+2025-03-23 12:24:25,915 - INFO - Обработано 8/19 сайтов (42.11%).
+2025-03-23 12:24:26,502 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for financial institutions.
+2025-03-23 12:24:27,052 - INFO - Ответ от GPT-4o-mini: + Relevant - SaaS for managing hybrid SAP infrastructures.
+2025-03-23 12:24:27,053 - ERROR - Ошибка получения https://nextesy.com (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nextesy.com'
+2025-03-23 12:24:27,053 - INFO - Сайт https://nfinnova.com обработан успешно.
+2025-03-23 12:24:27,053 - ERROR - Ошибка получения https://nexnet.de (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexnet.de/'
+2025-03-23 12:24:27,053 - INFO - Сайт https://nexquent.de обработан успешно.
+2025-03-23 12:24:27,053 - INFO - Обработано 9/19 сайтов (47.37%).
+2025-03-23 12:24:27,054 - INFO - Обработано 10/19 сайтов (52.63%).
+2025-03-23 12:24:27,252 - ERROR - Ошибка получения https://nexcomglobal.com (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexcomglobal.com'
+2025-03-23 12:24:27,274 - ERROR - Ошибка получения https://nexenio.com (попытка 1): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexenio.com/'
+2025-03-23 12:24:27,536 - ERROR - Ошибка получения https://ngager.se (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://ngager.se/en'
+2025-03-23 12:24:28,351 - ERROR - Ошибка получения https://nexus-lab.de (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-ag.de/lab'
+2025-03-23 12:24:28,899 - ERROR - Ошибка получения https://nexus-marabu.de (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-marabu.de/'
+2025-03-23 12:24:29,274 - ERROR - Ошибка получения https://nexoma.de (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexoma.de'
+2025-03-23 12:24:30,984 - ERROR - Ошибка получения https://nexenio.com (попытка 2): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexenio.com/'
+2025-03-23 12:24:32,445 - ERROR - Ошибка получения https://nexnet.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexnet.de/'
+2025-03-23 12:24:32,513 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 2)
+2025-03-23 12:24:32,991 - ERROR - Ошибка получения https://nextesy.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nextesy.com'
+2025-03-23 12:24:33,098 - ERROR - Ошибка получения https://nexcomglobal.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexcomglobal.com'
+2025-03-23 12:24:33,115 - ERROR - Ошибка получения https://ngager.se (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://ngager.se/en'
+2025-03-23 12:24:34,017 - ERROR - Ошибка получения https://nexus-lab.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-ag.de/lab'
+2025-03-23 12:24:34,600 - ERROR - Ошибка получения https://nexus-marabu.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-marabu.de/'
+2025-03-23 12:24:35,441 - ERROR - Ошибка получения https://nexoma.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexoma.de'
+2025-03-23 12:24:36,128 - ERROR - Ошибка получения https://nexenio.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexenio.com/'
+2025-03-23 12:24:37,025 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:24:40,451 - ERROR - Не удалось получить HTML для https://nexnet.de.
+2025-03-23 12:24:40,451 - INFO - Обработано 11/19 сайтов (57.89%).
+2025-03-23 12:24:41,010 - ERROR - Не удалось получить HTML для https://nextesy.com.
+2025-03-23 12:24:41,010 - INFO - Обработано 12/19 сайтов (63.16%).
+2025-03-23 12:24:41,103 - ERROR - Не удалось получить HTML для https://nexcomglobal.com.
+2025-03-23 12:24:41,103 - INFO - Обработано 13/19 сайтов (68.42%).
+2025-03-23 12:24:41,135 - ERROR - Не удалось получить HTML для https://ngager.se.
+2025-03-23 12:24:41,136 - INFO - Обработано 14/19 сайтов (73.68%).
+2025-03-23 12:24:41,336 - ERROR - Не удалось получить HTML для https://newelo.com.
+2025-03-23 12:24:41,336 - INFO - Обработано 15/19 сайтов (78.95%).
+2025-03-23 12:24:42,021 - ERROR - Не удалось получить HTML для https://nexus-lab.de.
+2025-03-23 12:24:42,021 - INFO - Обработано 16/19 сайтов (84.21%).
+2025-03-23 12:24:42,614 - ERROR - Не удалось получить HTML для https://nexus-marabu.de.
+2025-03-23 12:24:42,614 - INFO - Обработано 17/19 сайтов (89.47%).
+2025-03-23 12:24:43,450 - ERROR - Не удалось получить HTML для https://nexoma.de.
+2025-03-23 12:24:43,450 - INFO - Обработано 18/19 сайтов (94.74%).
+2025-03-23 12:24:44,150 - ERROR - Не удалось получить HTML для https://nexenio.com.
+2025-03-23 12:24:44,150 - INFO - Обработано 19/19 сайтов (100.00%).
+2025-03-23 12:24:44,150 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 12:24:44,151 - INFO - Обработка завершена: 2025-03-23 12:24:44
+2025-03-23 12:24:44,151 - INFO - 100% ✔️ Все сайты успешно обработаны!
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 12:26:43,143 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 12:26:43,144 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 12:26:43,144 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 12:26:43,144 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 12:26:44,841 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management with AI and machine learning.
+2025-03-23 12:26:45,740 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 12:26:46,461 - INFO - Ответ от GPT-4o-mini: + Relevant - Time management software for businesses.
+2025-03-23 12:26:46,462 - ERROR - Ошибка получения https://nexcomglobal.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexcomglobal.com'
+2025-03-23 12:26:46,462 - ERROR - Ошибка получения https://nexus-marabu.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-marabu.de/'
+2025-03-23 12:26:46,464 - INFO - Сайт https://nextevolution.de обработан успешно.
+2025-03-23 12:26:47,025 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for user permissions.
+2025-03-23 12:26:47,028 - INFO - Сайт https://nexus-chili.com обработан успешно.
+2025-03-23 12:26:47,028 - INFO - Сайт https://niklas.ch обработан успешно.
+2025-03-23 12:26:47,028 - INFO - Обработано 1/19 сайтов (5.26%).
+2025-03-23 12:26:47,029 - INFO - Сайт https://nexis-secure.com обработан успешно.
+2025-03-23 12:26:47,029 - INFO - Обработано 2/19 сайтов (10.53%).
+2025-03-23 12:26:47,029 - INFO - Обработано 3/19 сайтов (15.79%).
+2025-03-23 12:26:47,029 - INFO - Обработано 4/19 сайтов (21.05%).
+2025-03-23 12:26:47,182 - ERROR - Ошибка получения https://nextesy.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nextesy.com'
+2025-03-23 12:26:47,858 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for optimized purchasing processes.
+2025-03-23 12:26:47,860 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:26:47,860 - ERROR - Ошибка получения https://nexnet.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexnet.de/'
+2025-03-23 12:26:48,546 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient processes.
+2025-03-23 12:26:48,548 - ERROR - Ошибка получения https://ngager.se (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://ngager.se/en'
+2025-03-23 12:26:49,075 - INFO - Ответ от GPT-4o-mini: + Relevant - Pioneering software for lighting control systems.
+2025-03-23 12:26:49,075 - ERROR - Ошибка получения https://nexus-lab.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-ag.de/lab'
+2025-03-23 12:26:49,075 - INFO - Сайт https://newtron.de обработан успешно.
+2025-03-23 12:26:49,077 - ERROR - Ошибка получения https://nexenio.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexenio.com/'
+2025-03-23 12:26:49,882 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analysis.
+2025-03-23 12:26:49,883 - INFO - Сайт https://nextway.software обработан успешно.
+2025-03-23 12:26:49,883 - INFO - Сайт https://nicolaudiegroup.com обработан успешно.
+2025-03-23 12:26:49,883 - INFO - Обработано 5/19 сайтов (26.32%).
+2025-03-23 12:26:49,884 - INFO - Сайт https://nhochdrei.de обработан успешно.
+2025-03-23 12:26:49,884 - INFO - Обработано 6/19 сайтов (31.58%).
+2025-03-23 12:26:49,884 - INFO - Обработано 7/19 сайтов (36.84%).
+2025-03-23 12:26:49,884 - INFO - Обработано 8/19 сайтов (42.11%).
+2025-03-23 12:26:49,955 - ERROR - Ошибка получения https://nexoma.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexoma.de'
+2025-03-23 12:26:51,050 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for banks.
+2025-03-23 12:26:51,050 - INFO - Сайт https://nfinnova.com обработан успешно.
+2025-03-23 12:26:51,050 - INFO - Обработано 9/19 сайтов (47.37%).
+2025-03-23 12:26:52,834 - INFO - Ответ от GPT-4o-mini: + Relevant - SaaS for hybrid SAP infrastructure management.
+2025-03-23 12:26:52,835 - INFO - Сайт https://nexquent.de обработан успешно.
+2025-03-23 12:26:52,835 - INFO - Обработано 10/19 сайтов (52.63%).
+2025-03-23 12:26:54,734 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:26:56,003 - ERROR - Ошибка получения https://nextesy.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nextesy.com'
+2025-03-23 12:26:56,218 - ERROR - Ошибка получения https://nexcomglobal.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexcomglobal.com'
+2025-03-23 12:26:56,676 - ERROR - Ошибка получения https://nexus-marabu.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-marabu.de/'
+2025-03-23 12:26:57,207 - ERROR - Ошибка получения https://ngager.se (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://ngager.se/en'
+2025-03-23 12:26:58,015 - ERROR - Ошибка получения https://nexnet.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexnet.de/'
+2025-03-23 12:26:58,445 - ERROR - Ошибка получения https://nexenio.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexenio.com/'
+2025-03-23 12:26:58,719 - ERROR - Ошибка получения https://nexus-lab.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-ag.de/lab'
+2025-03-23 12:27:01,283 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:27:04,493 - ERROR - Ошибка получения https://nexoma.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexoma.de'
+2025-03-23 12:27:05,765 - ERROR - Ошибка получения https://nexus-marabu.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-marabu.de/'
+2025-03-23 12:27:05,857 - ERROR - Ошибка получения https://nexcomglobal.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexcomglobal.com'
+2025-03-23 12:27:05,934 - ERROR - Ошибка получения https://nextesy.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nextesy.com'
+2025-03-23 12:27:06,178 - ERROR - Не удалось получить HTML для https://newelo.com.
+2025-03-23 12:27:06,178 - INFO - Обработано 11/19 сайтов (57.89%).
+2025-03-23 12:27:06,769 - ERROR - Ошибка получения https://ngager.se (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://ngager.se/en'
+2025-03-23 12:27:07,071 - ERROR - Ошибка получения https://nexnet.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexnet.de/'
+2025-03-23 12:27:07,971 - ERROR - Ошибка получения https://nexus-lab.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexus-ag.de/lab'
+2025-03-23 12:27:08,240 - ERROR - Ошибка получения https://nexenio.com (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://www.nexenio.com/'
+2025-03-23 12:27:13,777 - ERROR - Не удалось получить HTML для https://nexus-marabu.de.
+2025-03-23 12:27:13,777 - INFO - Обработано 12/19 сайтов (63.16%).
+2025-03-23 12:27:13,885 - ERROR - Не удалось получить HTML для https://nexcomglobal.com.
+2025-03-23 12:27:13,885 - INFO - Обработано 13/19 сайтов (68.42%).
+2025-03-23 12:27:13,947 - ERROR - Не удалось получить HTML для https://nextesy.com.
+2025-03-23 12:27:13,947 - INFO - Обработано 14/19 сайтов (73.68%).
+2025-03-23 12:27:14,784 - ERROR - Не удалось получить HTML для https://ngager.se.
+2025-03-23 12:27:14,784 - INFO - Обработано 15/19 сайтов (78.95%).
+2025-03-23 12:27:15,078 - ERROR - Не удалось получить HTML для https://nexnet.de.
+2025-03-23 12:27:15,078 - INFO - Обработано 16/19 сайтов (84.21%).
+2025-03-23 12:27:15,798 - ERROR - Ошибка получения https://nexoma.de (попытка 3): 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://nexoma.de'
+2025-03-23 12:27:15,980 - ERROR - Не удалось получить HTML для https://nexus-lab.de.
+2025-03-23 12:27:15,980 - INFO - Обработано 17/19 сайтов (89.47%).
+2025-03-23 12:27:16,260 - ERROR - Не удалось получить HTML для https://nexenio.com.
+2025-03-23 12:27:16,260 - INFO - Обработано 18/19 сайтов (94.74%).
+2025-03-23 12:27:23,808 - ERROR - Не удалось получить HTML для https://nexoma.de.
+2025-03-23 12:27:23,808 - INFO - Обработано 19/19 сайтов (100.00%).
+2025-03-23 12:27:23,808 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 12:27:23,808 - INFO - Обработка завершена: 2025-03-23 12:27:23
+2025-03-23 12:27:23,808 - INFO - 100% ✔️ Все сайты успешно обработаны!
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 12:27:44,069 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 12:27:44,070 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 12:27:44,070 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 12:27:44,070 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 12:27:44,070 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 12:27:44,070 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 12:27:44,070 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 12:27:46,010 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 12:27:46,563 - INFO - Ответ от GPT-4o-mini: + Relevant - Centralized AI platform for customer interactions.
+2025-03-23 12:27:47,078 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient processes.
+2025-03-23 12:27:47,816 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analysis.
+2025-03-23 12:27:47,818 - INFO - Сайт https://nexus-chili.com обработан успешно.
+2025-03-23 12:27:47,821 - INFO - Сайт https://nexcomglobal.com обработан успешно.
+2025-03-23 12:27:47,833 - INFO - Сайт https://nextway.software обработан успешно.
+2025-03-23 12:27:47,833 - INFO - Сайт https://nhochdrei.de обработан успешно.
+2025-03-23 12:27:47,833 - INFO - Обработано 1/19 сайтов (5.26%).
+2025-03-23 12:27:47,835 - INFO - Обработано 2/19 сайтов (10.53%).
+2025-03-23 12:27:47,835 - INFO - Обработано 3/19 сайтов (15.79%).
+2025-03-23 12:27:47,835 - INFO - Обработано 4/19 сайтов (21.05%).
+2025-03-23 12:27:48,548 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for optimized purchasing processes.
+2025-03-23 12:27:49,032 - INFO - Ответ от GPT-4o-mini: + Relevant - AI-driven invoicing and finance management platform.
+2025-03-23 12:27:49,508 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary software for time management solutions.
+2025-03-23 12:27:49,508 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 1)
+2025-03-23 12:27:50,210 - INFO - Ответ от GPT-4o-mini: + Relevant - Pioneering software for lighting control systems.
+2025-03-23 12:27:50,709 - INFO - Ответ от GPT-4o-mini: + Relevant - ECM solutions for healthcare management.
+2025-03-23 12:27:51,285 - INFO - Ответ от GPT-4o-mini: + Relevant - Comprehensive platform for employee engagement and onboarding.
+2025-03-23 12:27:52,033 - INFO - Ответ от GPT-4o-mini: + Relevant - Software solutions for lab diagnostics and pathology.
+2025-03-23 12:27:52,036 - INFO - Сайт https://newtron.de обработан успешно.
+2025-03-23 12:27:52,518 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for financial institutions.
+2025-03-23 12:27:53,066 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for IT management.
+2025-03-23 12:27:53,908 - INFO - Ответ от GPT-4o-mini: + Relevant - PIM software for product data management.
+2025-03-23 12:27:54,434 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management with AI and NLP.
+2025-03-23 12:27:54,435 - INFO - Сайт https://nextesy.com обработан успешно.
+2025-03-23 12:27:55,314 - INFO - Ответ от GPT-4o-mini: + Relevant - Subscription billing platform for efficient payment management.
+2025-03-23 12:27:55,316 - INFO - Сайт https://niklas.ch обработан успешно.
+2025-03-23 12:27:55,317 - INFO - Сайт https://nicolaudiegroup.com обработан успешно.
+2025-03-23 12:27:55,317 - INFO - Сайт https://nexus-marabu.de обработан успешно.
+2025-03-23 12:27:55,317 - INFO - Сайт https://ngager.se обработан успешно.
+2025-03-23 12:27:55,317 - INFO - Сайт https://nexus-lab.de обработан успешно.
+2025-03-23 12:27:55,317 - INFO - Обработано 5/19 сайтов (26.32%).
+2025-03-23 12:27:55,318 - INFO - Сайт https://nfinnova.com обработан успешно.
+2025-03-23 12:27:55,318 - INFO - Сайт https://nexis-secure.com обработан успешно.
+2025-03-23 12:27:55,318 - INFO - Сайт https://nexoma.de обработан успешно.
+2025-03-23 12:27:55,319 - INFO - Сайт https://nextevolution.de обработан успешно.
+2025-03-23 12:27:55,319 - INFO - Обработано 6/19 сайтов (31.58%).
+2025-03-23 12:27:55,319 - INFO - Сайт https://nexnet.de обработан успешно.
+2025-03-23 12:27:55,319 - INFO - Обработано 7/19 сайтов (36.84%).
+2025-03-23 12:27:55,319 - INFO - Обработано 8/19 сайтов (42.11%).
+2025-03-23 12:27:55,319 - INFO - Обработано 9/19 сайтов (47.37%).
+2025-03-23 12:27:55,320 - INFO - Обработано 10/19 сайтов (52.63%).
+2025-03-23 12:27:55,320 - INFO - Обработано 11/19 сайтов (57.89%).
+2025-03-23 12:27:55,320 - INFO - Обработано 12/19 сайтов (63.16%).
+2025-03-23 12:27:55,320 - INFO - Обработано 13/19 сайтов (68.42%).
+2025-03-23 12:27:55,320 - INFO - Обработано 14/19 сайтов (73.68%).
+2025-03-23 12:27:55,320 - INFO - Обработано 15/19 сайтов (78.95%).
+2025-03-23 12:27:55,321 - INFO - Обработано 16/19 сайтов (84.21%).
+2025-03-23 12:27:55,389 - ERROR - Ошибка получения https://nexquent.de (попытка 1): 
+2025-03-23 12:27:55,954 - INFO - Ответ от GPT-4o-mini: + Relevant - Digital whiteboard platform for real-time collaboration.
+2025-03-23 12:27:55,954 - INFO - Сайт https://nexenio.com обработан успешно.
+2025-03-23 12:27:55,954 - INFO - Обработано 17/19 сайтов (89.47%).
+2025-03-23 12:27:56,859 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 2)
+2025-03-23 12:28:01,178 - INFO - Ответ от GPT-4o-mini: + Relevant - SaaS solution for hybrid infrastructure management.
+2025-03-23 12:28:01,178 - INFO - Сайт https://nexquent.de обработан успешно.
+2025-03-23 12:28:01,178 - INFO - Обработано 18/19 сайтов (94.74%).
+2025-03-23 12:28:03,900 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:28:07,984 - ERROR - Не удалось получить HTML для https://newelo.com.
+2025-03-23 12:28:07,984 - INFO - Обработано 19/19 сайтов (100.00%).
+2025-03-23 12:28:07,984 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 12:28:07,985 - INFO - Обработка завершена: 2025-03-23 12:28:07
+2025-03-23 12:28:07,985 - INFO - 100% ✔️ Все сайты успешно обработаны!
+2025-03-23 12:36:00,703 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 12:36:00,703 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 12:36:00,709 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 12:36:00,709 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 12:36:00,709 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 12:36:00,709 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 12:36:00,709 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 12:36:00,709 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 12:36:00,710 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 12:36:02,495 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient processes.
+2025-03-23 12:36:03,044 - INFO - Ответ от GPT-4o-mini: + Relevant - Time management software for businesses.
+2025-03-23 12:36:03,544 - INFO - Ответ от GPT-4o-mini: + Relevant - Pioneering software for lighting control systems.
+2025-03-23 12:36:04,223 - INFO - Ответ от GPT-4o-mini: + Relevant - Centralized AI platform for customer interactions.
+2025-03-23 12:36:04,225 - INFO - Сайт https://nextway.software обработан успешно (релевантен).
+2025-03-23 12:36:05,050 - INFO - Ответ от GPT-4o-mini: + Relevant - PIM and data management solutions for eBusiness.
+2025-03-23 12:36:06,290 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analysis solutions.
+2025-03-23 12:36:06,292 - INFO - Сайт https://niklas.ch обработан успешно (релевантен).
+2025-03-23 12:36:06,292 - INFO - Сайт https://nicolaudiegroup.com обработан успешно (релевантен).
+2025-03-23 12:36:06,293 - INFO - Сайт https://nexcomglobal.com обработан успешно (релевантен).
+2025-03-23 12:36:06,293 - INFO - Обработано 1/19 сайтов (5.26%).
+2025-03-23 12:36:06,293 - INFO - Сайт https://nexoma.de обработан успешно (релевантен).
+2025-03-23 12:36:06,293 - INFO - Сайт https://nhochdrei.de обработан успешно (релевантен).
+2025-03-23 12:36:06,293 - INFO - Обработано 2/19 сайтов (10.53%).
+2025-03-23 12:36:06,294 - INFO - Обработано 3/19 сайтов (15.79%).
+2025-03-23 12:36:06,294 - INFO - Обработано 4/19 сайтов (21.05%).
+2025-03-23 12:36:06,294 - INFO - Обработано 5/19 сайтов (26.32%).
+2025-03-23 12:36:06,294 - INFO - Обработано 6/19 сайтов (31.58%).
+2025-03-23 12:36:07,191 - INFO - Ответ от GPT-4o-mini: + Relevant - AI-driven insights for simplified invoicing.
+2025-03-23 12:36:07,768 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 12:36:08,293 - INFO - Ответ от GPT-4o-mini: + Relevant - Comprehensive platform for employee engagement and onboarding.
+2025-03-23 12:36:08,885 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for optimized procurement processes.
+2025-03-23 12:36:08,887 - INFO - Сайт https://nextesy.com обработан успешно (релевантен).
+2025-03-23 12:36:09,639 - INFO - Ответ от GPT-4o-mini: + Relevant - Software solutions for lab diagnostics and pathology.
+2025-03-23 12:36:10,523 - INFO - Ответ от GPT-4o-mini: + Relevant - ECM solutions for healthcare management.
+2025-03-23 12:36:11,154 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for user permissions management.
+2025-03-23 12:36:11,154 - INFO - Сайт https://nexus-chili.com обработан успешно (релевантен).
+2025-03-23 12:36:11,719 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management with AI and machine learning.
+2025-03-23 12:36:12,550 - INFO - Ответ от GPT-4o-mini: + Relevant - Subscription billing platform for efficient financial management.
+2025-03-23 12:36:12,554 - INFO - Сайт https://ngager.se обработан успешно (релевантен).
+2025-03-23 12:36:12,554 - ERROR - Ошибка получения https://nexenio.com (попытка 1): 
+2025-03-23 12:36:12,554 - INFO - Сайт https://newtron.de обработан успешно (релевантен).
+2025-03-23 12:36:12,555 - INFO - Обработано 7/19 сайтов (36.84%).
+2025-03-23 12:36:12,555 - INFO - Сайт https://nexus-lab.de обработан успешно (релевантен).
+2025-03-23 12:36:12,555 - INFO - Сайт https://nexus-marabu.de обработан успешно (релевантен).
+2025-03-23 12:36:12,556 - INFO - Сайт https://nexis-secure.com обработан успешно (релевантен).
+2025-03-23 12:36:12,556 - INFO - Обработано 8/19 сайтов (42.11%).
+2025-03-23 12:36:12,556 - INFO - Сайт https://nextevolution.de обработан успешно (релевантен).
+2025-03-23 12:36:12,556 - INFO - Сайт https://nexnet.de обработан успешно (релевантен).
+2025-03-23 12:36:12,556 - INFO - Обработано 9/19 сайтов (47.37%).
+2025-03-23 12:36:12,556 - INFO - Обработано 10/19 сайтов (52.63%).
+2025-03-23 12:36:12,556 - INFO - Обработано 11/19 сайтов (57.89%).
+2025-03-23 12:36:12,556 - INFO - Обработано 12/19 сайтов (63.16%).
+2025-03-23 12:36:12,556 - INFO - Обработано 13/19 сайтов (68.42%).
+2025-03-23 12:36:12,557 - INFO - Обработано 14/19 сайтов (73.68%).
+2025-03-23 12:36:12,557 - INFO - Обработано 15/19 сайтов (78.95%).
+2025-03-23 12:36:12,780 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 1)
+2025-03-23 12:36:13,926 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for financial institutions.
+2025-03-23 12:36:13,926 - INFO - Сайт https://nfinnova.com обработан успешно (релевантен).
+2025-03-23 12:36:13,926 - INFO - Обработано 16/19 сайтов (84.21%).
+2025-03-23 12:36:14,984 - INFO - Ответ от GPT-4o-mini: + Relevant - SaaS solution for hybrid infrastructure management.
+2025-03-23 12:36:14,984 - INFO - Сайт https://nexquent.de обработан успешно (релевантен).
+2025-03-23 12:36:14,985 - INFO - Обработано 17/19 сайтов (89.47%).
+2025-03-23 12:36:16,894 - INFO - Ответ от GPT-4o-mini: + Relevant - Digital whiteboard platform for real-time collaboration.
+2025-03-23 12:36:16,894 - INFO - Сайт https://nexenio.com обработан успешно (релевантен).
+2025-03-23 12:36:16,894 - INFO - Обработано 18/19 сайтов (94.74%).
+2025-03-23 12:36:18,770 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 2)
+2025-03-23 12:36:28,158 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 12:36:34,457 - INFO - Обычный запрос не сработал для https://newelo.com. Попытка fallback с headless браузером.
+2025-03-23 12:36:54,940 - INFO - Ответ от GPT-4o-mini: + Relevant - Work Force Management tool for field operations.
+2025-03-23 12:36:54,940 - INFO - Сайт https://newelo.com обработан успешно (релевантен).
+2025-03-23 12:36:54,940 - INFO - Обработано 19/19 сайтов (100.00%).
+2025-03-23 12:36:54,940 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 12:36:54,941 - INFO - Обработка завершена: 2025-03-23 12:36:54
+2025-03-23 12:36:54,941 - INFO - 100% ✔️ Все сайты успешно обработаны!
+2025-03-23 13:12:21,005 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 13:12:21,005 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 13:12:21,005 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 13:12:21,011 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 13:12:23,034 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 13:12:23,763 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for optimized purchasing processes.
+2025-03-23 13:12:23,765 - INFO - Сайт https://nexus-chili.com обработан успешно (релевантен).
+2025-03-23 13:12:23,769 - INFO - Сайт https://newtron.de обработан успешно (релевантен).
+2025-03-23 13:12:23,769 - INFO - Обработано 1/19 сайтов (5.26%). Время обработки сайта: 2.76 сек.
+2025-03-23 13:12:23,769 - INFO - Обработано 2/19 сайтов (10.53%). Время обработки сайта: 2.76 сек.
+2025-03-23 13:12:24,545 - INFO - Ответ от GPT-4o-mini: + Relevant - Subscription billing platform for efficient financial management.
+2025-03-23 13:12:24,555 - INFO - Сайт https://nexnet.de обработан успешно (релевантен).
+2025-03-23 13:12:24,555 - INFO - Обработано 3/19 сайтов (15.79%). Время обработки сайта: 3.54 сек.
+2025-03-23 13:12:25,692 - INFO - Ответ от GPT-4o-mini: + Relevant - Enterprise content management with AI solutions.
+2025-03-23 13:12:26,295 - INFO - Ответ от GPT-4o-mini: + Relevant - AI-driven invoicing and finance management platform.
+2025-03-23 13:12:26,996 - INFO - Ответ от GPT-4o-mini: + Relevant - Comprehensive platform for employee engagement and onboarding.
+2025-03-23 13:12:27,536 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient processes.
+2025-03-23 13:12:28,268 - INFO - Ответ от GPT-4o-mini: + Relevant - Time management software for workforce optimization.
+2025-03-23 13:12:28,956 - INFO - Ответ от GPT-4o-mini: + Relevant - Software solutions for lab diagnostics and pathology.
+2025-03-23 13:12:29,632 - INFO - Ответ от GPT-4o-mini: + Relevant - Pioneering software for lighting control systems.
+2025-03-23 13:12:30,234 - INFO - Ответ от GPT-4o-mini: + Relevant - Centralized AI platform for customer interactions.
+2025-03-23 13:12:31,032 - INFO - Ответ от GPT-4o-mini: + Relevant - PIM solutions for product data management.
+2025-03-23 13:12:31,636 - INFO - Ответ от GPT-4o-mini: + Relevant - ECM solutions for healthcare management.
+2025-03-23 13:12:31,637 - INFO - Сайт https://nextevolution.de обработан успешно (релевантен).
+2025-03-23 13:12:32,359 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for user permissions management.
+2025-03-23 13:12:33,049 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analysis.
+2025-03-23 13:12:33,056 - INFO - Сайт https://nextesy.com обработан успешно (релевантен).
+2025-03-23 13:12:33,066 - INFO - Сайт https://ngager.se обработан успешно (релевантен).
+2025-03-23 13:12:33,067 - INFO - Сайт https://nextway.software обработан успешно (релевантен).
+2025-03-23 13:12:33,067 - INFO - Сайт https://niklas.ch обработан успешно (релевантен).
+2025-03-23 13:12:33,068 - INFO - Сайт https://nexus-lab.de обработан успешно (релевантен).
+2025-03-23 13:12:33,068 - INFO - Сайт https://nicolaudiegroup.com обработан успешно (релевантен).
+2025-03-23 13:12:33,068 - INFO - Сайт https://nexcomglobal.com обработан успешно (релевантен).
+2025-03-23 13:12:33,069 - INFO - Сайт https://nexoma.de обработан успешно (релевантен).
+2025-03-23 13:12:33,069 - INFO - Сайт https://nexus-marabu.de обработан успешно (релевантен).
+2025-03-23 13:12:33,070 - INFO - Сайт https://nexis-secure.com обработан успешно (релевантен).
+2025-03-23 13:12:33,070 - INFO - Сайт https://nhochdrei.de обработан успешно (релевантен).
+2025-03-23 13:12:33,070 - INFO - Обработано 4/19 сайтов (21.05%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,071 - INFO - Обработано 5/19 сайтов (26.32%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,071 - INFO - Обработано 6/19 сайтов (31.58%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,071 - INFO - Обработано 7/19 сайтов (36.84%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,071 - INFO - Обработано 8/19 сайтов (42.11%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,071 - INFO - Обработано 9/19 сайтов (47.37%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,072 - INFO - Обработано 10/19 сайтов (52.63%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,072 - INFO - Обработано 11/19 сайтов (57.89%). Время обработки сайта: 12.07 сек.
+2025-03-23 13:12:33,072 - INFO - Обработано 12/19 сайтов (63.16%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,072 - INFO - Обработано 13/19 сайтов (68.42%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,072 - INFO - Обработано 14/19 сайтов (73.68%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,073 - INFO - Обработано 15/19 сайтов (78.95%). Время обработки сайта: 12.06 сек.
+2025-03-23 13:12:33,955 - INFO - Ответ от GPT-4o-mini: + Relevant - Digital whiteboard platform for real-time collaboration.
+2025-03-23 13:12:33,957 - ERROR - Ошибка получения https://newelo.com (попытка 1): 
+2025-03-23 13:12:33,957 - ERROR - Ошибка получения https://nfinnova.com (попытка 1): 
+2025-03-23 13:12:33,957 - ERROR - Ошибка получения https://nexquent.de (попытка 1): 
+2025-03-23 13:12:33,957 - INFO - Сайт https://nexenio.com обработан успешно (релевантен).
+2025-03-23 13:12:33,957 - INFO - Обработано 16/19 сайтов (84.21%). Время обработки сайта: 12.95 сек.
+2025-03-23 13:12:37,471 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 2)
+2025-03-23 13:12:39,587 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for financial institutions.
+2025-03-23 13:12:39,587 - INFO - Сайт https://nfinnova.com обработан успешно (релевантен).
+2025-03-23 13:12:39,587 - INFO - Обработано 17/19 сайтов (89.47%). Время обработки сайта: 18.58 сек.
+2025-03-23 13:12:41,588 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary software for user lifecycle management.
+2025-03-23 13:12:41,589 - INFO - Сайт https://nexquent.de обработан успешно (релевантен).
+2025-03-23 13:12:41,589 - INFO - Обработано 18/19 сайтов (94.74%). Время обработки сайта: 20.58 сек.
+2025-03-23 13:12:42,934 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 13:12:47,125 - INFO - Обычный запрос не сработал для https://newelo.com. Попытка fallback с headless браузером.
+2025-03-23 13:12:58,502 - INFO - Ответ от GPT-4o-mini: + Relevant - Work force management tool for field operations.
+2025-03-23 13:12:58,503 - INFO - Сайт https://newelo.com обработан успешно (релевантен).
+2025-03-23 13:12:58,503 - INFO - Обработано 19/19 сайтов (100.00%). Время обработки сайта: 37.50 сек.
+2025-03-23 13:12:58,503 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 13:12:58,504 - INFO - Обработка завершена: 2025-03-23 13:12:58
+2025-03-23 13:12:58,504 - INFO - Общее время обработки: 243.37 сек. Среднее время на сайт: 12.81 сек.
+2025-03-23 13:12:58,504 - INFO - Успешно обработано: 19 сайтов, ошибок: 0.
+2025-03-23 13:12:58,504 - INFO - 100% ✔️ Все сайты успешно обработаны!
+2025-03-23 18:48:44,517 - INFO - Начало обработки сайта: newelo.com
+2025-03-23 18:48:44,517 - INFO - Начало обработки сайта: newtron.de
+2025-03-23 18:48:44,517 - INFO - Начало обработки сайта: nexcomglobal.com
+2025-03-23 18:48:44,523 - INFO - Начало обработки сайта: nexenio.com
+2025-03-23 18:48:44,523 - INFO - Начало обработки сайта: nexis-secure.com
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nexnet.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nexoma.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nexquent.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nextesy.com
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nextevolution.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nextway.software
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nexus-chili.com
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nexus-lab.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nexus-marabu.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nfinnova.com
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: ngager.se
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nhochdrei.de
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: nicolaudiegroup.com
+2025-03-23 18:48:44,525 - INFO - Начало обработки сайта: niklas.ch
+2025-03-23 18:48:48,295 - INFO - Ответ от GPT-4o-mini: + Relevant - AI-driven invoicing and financial insights platform.
+2025-03-23 18:48:48,966 - INFO - Ответ от GPT-4o-mini: + Relevant - Comprehensive platform for employee engagement and onboarding.
+2025-03-23 18:48:51,041 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management with AI and machine learning.
+2025-03-23 18:48:51,966 - INFO - Ответ от GPT-4o-mini: + Relevant - Pioneering software for lighting control systems.
+2025-03-23 18:48:52,838 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary BI software for data analytics.
+2025-03-23 18:48:53,749 - INFO - Ответ от GPT-4o-mini: + Relevant - Access governance software for user permissions management.
+2025-03-23 18:48:53,751 - INFO - Сайт https://nextesy.com обработан успешно (релевантен).
+2025-03-23 18:48:53,753 - INFO - Сайт https://ngager.se обработан успешно (релевантен).
+2025-03-23 18:48:53,754 - INFO - Сайт https://nextevolution.de обработан успешно (релевантен).
+2025-03-23 18:48:53,754 - INFO - Сайт https://nicolaudiegroup.com обработан успешно (релевантен).
+2025-03-23 18:48:53,754 - INFO - Сайт https://nhochdrei.de обработан успешно (релевантен).
+2025-03-23 18:48:53,754 - INFO - Сайт https://nexis-secure.com обработан успешно (релевантен).
+2025-03-23 18:48:53,754 - INFO - Обработано 1/19 сайтов (5.26%). Время обработки сайта: 9.23 сек.
+2025-03-23 18:48:53,756 - INFO - Обработано 2/19 сайтов (10.53%). Время обработки сайта: 9.23 сек.
+2025-03-23 18:48:53,757 - INFO - Обработано 3/19 сайтов (15.79%). Время обработки сайта: 9.23 сек.
+2025-03-23 18:48:53,758 - INFO - Обработано 4/19 сайтов (21.05%). Время обработки сайта: 9.23 сек.
+2025-03-23 18:48:53,758 - INFO - Обработано 5/19 сайтов (26.32%). Время обработки сайта: 9.23 сек.
+2025-03-23 18:48:53,758 - INFO - Обработано 6/19 сайтов (31.58%). Время обработки сайта: 9.23 сек.
+2025-03-23 18:48:54,936 - INFO - Ответ от GPT-4o-mini: + Relevant - eProcurement platform for supply chain optimization.
+2025-03-23 18:48:55,798 - INFO - Ответ от GPT-4o-mini: + Relevant - Centralized AI platform for customer interactions.
+2025-03-23 18:48:56,761 - INFO - Ответ от GPT-4o-mini: + Relevant - Innovative software for medical imaging management.
+2025-03-23 18:48:57,524 - INFO - Ответ от GPT-4o-mini: + Relevant - Digital whiteboard platform for real-time collaboration.
+2025-03-23 18:48:58,189 - INFO - Ответ от GPT-4o-mini: + Relevant - ECM solutions for healthcare management.
+2025-03-23 18:48:59,013 - INFO - Ответ от GPT-4o-mini: + Relevant - Software solutions for lab diagnostics and pathology.
+2025-03-23 18:48:59,014 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 1)
+2025-03-23 18:48:59,014 - INFO - Сайт https://newtron.de обработан успешно (релевантен).
+2025-03-23 18:48:59,016 - ERROR - Ошибка получения https://niklas.ch (попытка 1): 
+2025-03-23 18:48:59,018 - ERROR - Ошибка получения https://nexoma.de (попытка 1): 
+2025-03-23 18:48:59,020 - INFO - Сайт https://nexcomglobal.com обработан успешно (релевантен).
+2025-03-23 18:48:59,021 - INFO - Сайт https://nexus-chili.com обработан успешно (релевантен).
+2025-03-23 18:48:59,021 - INFO - Сайт https://nexenio.com обработан успешно (релевантен).
+2025-03-23 18:48:59,021 - INFO - Сайт https://nexus-marabu.de обработан успешно (релевантен).
+2025-03-23 18:48:59,021 - INFO - Сайт https://nexus-lab.de обработан успешно (релевантен).
+2025-03-23 18:48:59,021 - INFO - Обработано 7/19 сайтов (36.84%). Время обработки сайта: 14.50 сек.
+2025-03-23 18:48:59,021 - INFO - Обработано 8/19 сайтов (42.11%). Время обработки сайта: 14.50 сек.
+2025-03-23 18:48:59,021 - INFO - Обработано 9/19 сайтов (47.37%). Время обработки сайта: 14.50 сек.
+2025-03-23 18:48:59,022 - INFO - Обработано 10/19 сайтов (52.63%). Время обработки сайта: 14.50 сек.
+2025-03-23 18:48:59,022 - INFO - Обработано 11/19 сайтов (57.89%). Время обработки сайта: 14.50 сек.
+2025-03-23 18:48:59,022 - INFO - Обработано 12/19 сайтов (63.16%). Время обработки сайта: 14.50 сек.
+2025-03-23 18:48:59,388 - ERROR - Ошибка получения https://nextway.software (попытка 1): 
+2025-03-23 18:48:59,388 - ERROR - Ошибка получения https://nfinnova.com (попытка 1): 
+2025-03-23 18:48:59,389 - ERROR - Ошибка получения https://nexquent.de (попытка 1): 
+2025-03-23 18:48:59,389 - ERROR - Ошибка получения https://nexnet.de (попытка 1): 
+2025-03-23 18:49:03,407 - INFO - Ответ от GPT-4o-mini: + Relevant - Time management software for businesses.
+2025-03-23 18:49:03,412 - INFO - Сайт https://niklas.ch обработан успешно (релевантен).
+2025-03-23 18:49:03,412 - INFO - Обработано 13/19 сайтов (68.42%). Время обработки сайта: 18.89 сек.
+2025-03-23 18:49:04,795 - INFO - Ответ от GPT-4o-mini: + Relevant - Subscription billing platform for efficient financial management.
+2025-03-23 18:49:05,787 - INFO - Ответ от GPT-4o-mini: + Relevant - Document management system for efficient processes.
+2025-03-23 18:49:07,213 - INFO - Ответ от GPT-4o-mini: + Relevant - Omnichannel digital banking platform for banks.
+2025-03-23 18:49:08,540 - INFO - Ответ от GPT-4o-mini: + Relevant - PIM software for product data management.
+2025-03-23 18:49:08,542 - INFO - Сайт https://nexnet.de обработан успешно (релевантен).
+2025-03-23 18:49:08,542 - INFO - Сайт https://nextway.software обработан успешно (релевантен).
+2025-03-23 18:49:08,543 - INFO - Сайт https://nfinnova.com обработан успешно (релевантен).
+2025-03-23 18:49:08,543 - INFO - Сайт https://nexoma.de обработан успешно (релевантен).
+2025-03-23 18:49:08,543 - INFO - Обработано 14/19 сайтов (73.68%). Время обработки сайта: 24.02 сек.
+2025-03-23 18:49:08,543 - INFO - Обработано 15/19 сайтов (78.95%). Время обработки сайта: 24.02 сек.
+2025-03-23 18:49:08,544 - INFO - Обработано 16/19 сайтов (84.21%). Время обработки сайта: 24.02 сек.
+2025-03-23 18:49:08,544 - INFO - Обработано 17/19 сайтов (89.47%). Время обработки сайта: 24.02 сек.
+2025-03-23 18:49:08,770 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 2)
+2025-03-23 18:49:11,693 - INFO - Ответ от GPT-4o-mini: + Relevant - Proprietary software for user lifecycle management.
+2025-03-23 18:49:11,693 - INFO - Сайт https://nexquent.de обработан успешно (релевантен).
+2025-03-23 18:49:11,693 - INFO - Обработано 18/19 сайтов (94.74%). Время обработки сайта: 27.17 сек.
+2025-03-23 18:49:14,257 - WARNING - 403 Forbidden для https://newelo.com, пробуем другой User-Agent (попытка 3)
+2025-03-23 18:49:20,314 - INFO - Обычный запрос не сработал для https://newelo.com. Попытка fallback с headless браузером.
+2025-03-23 18:49:35,747 - INFO - Ответ от GPT-4o-mini: + Relevant - Work force management solution for field operations.
+2025-03-23 18:49:35,751 - INFO - Сайт https://newelo.com обработан успешно (релевантен).
+2025-03-23 18:49:35,751 - INFO - Обработано 19/19 сайтов (100.00%). Время обработки сайта: 51.23 сек.
+2025-03-23 18:49:35,752 - INFO - ✅ Завершён пакет сайтов с 1 по 19
+2025-03-23 18:49:35,753 - INFO - Обработка завершена: 2025-03-23 18:49:35
+2025-03-23 18:49:35,753 - INFO - Общее время обработки: 335.74 сек. Среднее время на сайт: 17.67 сек.
+2025-03-23 18:49:35,753 - INFO - Успешно обработано: 19 сайтов, ошибок: 0.
+2025-03-23 18:49:35,753 - INFO - 100% ✔️ Все сайты успешно обработаны!
